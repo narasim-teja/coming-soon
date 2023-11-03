@@ -53,7 +53,7 @@ export default function Experience()
             </Text3D>
         </Center>
 
-        { [...Array(100)].map((value, index) =>
+        { [...Array(50)].map((value, index) =>
             <mesh
                 ref={ (element) => donuts.current[index] = element }
                 key={ index }
