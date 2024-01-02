@@ -58,8 +58,10 @@ const AboutSection = (props) => {
       <h1 className="text-3xl md:text-6xl font-extrabold leading-snug mt-8 md:mt-0 text-custom-gray  ">
       Welcome to Win-Me
         <br />
-        <span className="bg-white px-1 italic">Race, Collect, Own</span>
+        
+        
       </h1>
+      <span className="text-3xl md:text-6xl font-extrabold leading-snug  md:mt-0 text-custom-gray bg-white px-1 italic ">Race, Collect, Own</span>
       <motion.p
         className="bg-white text-xl font-bold text-custom-voilet mt-4"
         initial={{
