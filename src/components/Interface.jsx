@@ -281,6 +281,11 @@ const socialLinks = [
     icon: <FiInstagram />,
     url: "https://www.instagram.com/winme_1/",
   },
+  {
+    id: 3,
+    icon: <FiYoutube />,
+    url: "https://www.youtube.com/@Win-Me",
+  },
 ];
 
 const ContactSection = () => {
