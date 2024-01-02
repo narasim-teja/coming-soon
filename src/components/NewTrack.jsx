@@ -27,7 +27,7 @@ export default function NewTrack()
         return <primitive
             object={ fox.scene }
             scale={4}
-            position={ [  2.3, -24, 2.5 ] }
+            position={ [  1.8, -24, 2.5 ] }
             
         />
 }
